@@ -1,0 +1,48 @@
+- 
+  id: 0
+  name: "Marco"
+  surname: "Temperini"
+  title: "Associate Professor"
+  team: true
+  social: 
+   - {name: "site", link: "http://www.dis.uniroma1.it/en/users/martedisuniroma1it"}
+- 
+  id: 1
+  name: "Ray Yueh-Min"
+  surname: "Huang"
+  title: "Distinguished Professor"
+  thumbnailUrl: Rayhuang.jpeg
+  team: true
+  social: 
+  - {name: "site", link: "https://sites.google.com/site/huangpage/home"}
+- 
+
+- 
+  id: 4
+  name: "Yiwei"
+  surname: "Cao"
+  title: " IMC Information Multimedia Communication AG, Germany"
+  thumbnailUrl: YiweiCao.jpg
+  subTeam: true
+  social: 
+  - {name: "site", link: "http://dbis.rwth-aachen.de/lehrstuhl/staff/cao/"}
+
+- 
+  id: 5
+  name: "Qing"
+  surname: "Li"
+  title: " Professor"
+  thumbnailUrl: QLi.jpg
+  subTeam: true
+  social: 
+  - {name: "site", link: "http://www.cs.cityu.edu.hk/~csqli/"}
+    
+- 
+  id: 6
+  name: "TingTing"
+  surname: "Wu"
+  title: "Assistant Professor"
+  thumbnailUrl: TingTingWu.jpg
+  subTeam: true
+  social: 
+   - {name: "site", link: "https://sites.google.com/site/mltatinglab/home/jiao-shi-jie-shao"}

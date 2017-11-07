@@ -1,0 +1,21 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "National Cheng-Kung University", description: "", link: "http://web.ncku.edu.tw/bin/home.php?Lang=en", imageUrl: "National_Cheng_Kung_University_logo.svg"}
+- 
+  group: "Co-organizers"   
+  elements: 
+    - {name: "National Cheng-Kung University", description: "", link: "http://web.ncku.edu.tw/bin/home.php?Lang=en", imageUrl: "National_Cheng_Kung_University_logo.svg"}
+    - {name: "Sapienza University", description: "", link: "http://en.uniroma1.it", imageUrl: "Sapienza_Universit.svg"}
+
+- 
+  group: "Publisher"   
+  elements: 
+    - {name: "Springer", description: "", link: "http://www.springer.com", imageUrl: "Springer_Logo.png"}
+    - {name: "Springer LNCS", description: "", link: "http://www.springer.com/lncs", imageUrl: "lncs_logo.png"}
+
+  
+    
+
+
+
