@@ -50,10 +50,10 @@ navigationLinks:
  - {permalink: "/organization/", text: "Organization"}
  - {permalink: "/dates/", text: "Important Dates"}
  - {permalink: "/venue/", text: "Venue"}
- - {permalink: "/travel-information.html", text: "travel-information"}
+ #- {permalink: "/travel-information.html", text: "travel-information"}
  - {permalink: "http://google.com", text: "Registration"}
- - {permalink: "/volume/", text: "Volume Editor"}
- - {permalink: "http://link.springer.com/book/10.1007%2F978-3-319-52836-6", text: "Online Proceedings"}
+ #- {permalink: "/volume/", text: "Volume Editor"}
+ #- {permalink: "http://link.springer.com/book/10.1007%2F978-3-319-52836-6", text: "Online Proceedings"}
 
 # - {permalink: "/speakers/", text: "Invited Speakers"}
 
