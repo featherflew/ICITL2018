@@ -1,6 +1,6 @@
 # Project Zeppelin / GDG DevFest 2014 site template
 
-# SETE 2016
+# ICITL 2018
 
 ### About 
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
