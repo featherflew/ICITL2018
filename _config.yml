@@ -109,27 +109,27 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Casa dell'Aviatore"
-eventLocationLink: "http://www.casaviatore.it/"
-eventStreetAddress: "Viale dell'Università, 20"
-eventAddressLocality: "00185 Roma"
+eventLocationName: "Piran Portorož"
+eventLocationLink: "https://www.kempinski.com/en/istria/palace-portoroz/"
+eventStreetAddress: "Istria, Obala 45"
+eventAddressLocality: "6320 Istria"
 eventAddressLocalityRegion: ""
 eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventAddressCountry: "Slovenia"
 ##eventDoorTime: "09:00"
 #eventEndTime: "2016-10-29T20:00"
-eventPlaceCoordinates: "41.904589, 12.510063"
-mapCenterCoordinates: "41.904589, 12.510063"
-mapMobileCenterCoordinates: "41.904589, 12.510063"
+eventPlaceCoordinates: "45.514538, 13.591974"
+mapCenterCoordinates: "45.514538, 13.591974"
+mapMobileCenterCoordinates: "45.514538, 13.591974"
 
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "CASA1.jpg"
 venueSmallImage1: "CASA4.jpg"
 venueSmallImage2: "CASA3.jpg"
-venueSmallImage3: "CASA2.jpg"
-venueTitle: "Casa dell'Aviatore"
-venueFeatures: [""]
+venueSmallImage3: "su4.jpg"
+venueTitle: "Piran Portorož, Slovenija"
+venueFeatures: ["TEST"]
 
 # Tweets Feed Block
 #tweetsFeedImage: "twitter-feed.jpg"
@@ -222,20 +222,20 @@ teamBlockTitle: "About us"
 aboutUs: "Coming Soon..."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
+findWayTitle: "Find Your Way"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "41.904589, 12.510063"
-logisticsMapMobileCenterCoordinates: "41.904589, 12.510063"
+logisticsMapCenterCoordinates: "45.514538, 13.591974"
+logisticsMapMobileCenterCoordinates: "45.514538, 13.591974"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "getaroundroma.jpg"
-directionDetailsTitle: "Getting Around Roma"
+directionDetailsImage: "getaroundPortoroz.jpg"
+directionDetailsTitle: "Getting Around Portorož"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Coming Soon..'}
  - {title: "Public Transit", information: 'Coming Soon..'}
