@@ -69,7 +69,7 @@ navigationLinks:
 # - {link: "", text: "Paper Submission"}
 
 # Hero Block
-heroImage: "bg-main.jpg"
+heroImage: "bg-main2.jpg"
 #需加入來源 https://visualhunt.com/f/photo/14929338680/192c7e6822/
 shorttitle: "ICITL 2018"
 #icwl: "in conjunction with ICWL 2016"
@@ -79,7 +79,7 @@ eventDate: "Aug 27-29, 2018 , Piran Portorož, Slovenija"
 typeoutFallback: ""
 heroButtons:
  - {link: "https://easychair.org/conferences/?conf=icitl2018", text: "Paper Submission"}
- - {permalink: "http://icwl2016.dis.uniroma1.it/registration", text: "Registration"}
+ - {permalink: "http://www.google.com", text: "  Registration  "}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 # About Block
 aboutTitle: "About ICITL 2018"
