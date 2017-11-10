@@ -38,7 +38,11 @@
   </url>
   <url>
     <loc>http://2018.icitl.org/dates.html</loc>
-    <lastmod>2017-11-10T00:05:51+08:00</lastmod>
+    <lastmod>2017-11-10T16:26:14+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://2018.icitl.org/keynote.html</loc>
+    <lastmod>2017-11-10T16:58:39+08:00</lastmod>
   </url>
   <url>
     <loc>http://2018.icitl.org/lib/perl5/5.8/CGI/eg/index.html</loc>
@@ -46,11 +50,11 @@
   </url>
   <url>
     <loc>http://2018.icitl.org/organization.html</loc>
-    <lastmod>2017-11-10T00:06:06+08:00</lastmod>
+    <lastmod>2017-11-10T16:27:11+08:00</lastmod>
   </url>
   <url>
     <loc>http://2018.icitl.org/papers.html</loc>
-    <lastmod>2017-11-10T00:16:39+08:00</lastmod>
+    <lastmod>2017-11-10T16:35:27+08:00</lastmod>
   </url>
   <url>
     <loc>http://2018.icitl.org/program.html</loc>
@@ -62,7 +66,7 @@
   </url>
   <url>
     <loc>http://2018.icitl.org/venue.html</loc>
-    <lastmod>2017-11-10T01:27:16+08:00</lastmod>
+    <lastmod>2017-11-10T16:24:20+08:00</lastmod>
   </url>
   <url>
     <loc>http://2018.icitl.org/volume.html</loc>
@@ -70,6 +74,6 @@
   </url>
   <url>
     <loc>http://2018.icitl.org/workshops.html</loc>
-    <lastmod>2017-11-10T00:23:12+08:00</lastmod>
+    <lastmod>2017-11-10T16:27:42+08:00</lastmod>
   </url>
 </urlset>
