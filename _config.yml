@@ -18,7 +18,7 @@ url: "http://2018.icitl.org"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "AIzaSyB4G-Xvc-0oZKJbOIysIGohNoIRovbEHoc"
 
 # Organizer Info
 organizerName: "ICITL"
@@ -73,7 +73,7 @@ heroImage: "bg-main2.jpg"
 #需加入來源 https://visualhunt.com/f/photo/14929338680/192c7e6822/
 shorttitle: "ICITL 2018"
 #icwl: "in conjunction with ICWL 2016"
-heroTitle: "1st International Conference of Innovative Technologies and Learning<typeout> "
+heroTitle: "International Conference of Innovative Technologies and Learning<typeout> "
 eventDate: "Aug 27-29, 2018 , Piran Portorož, Slovenija"
 #typeoutTextValues: '"SETE’16", "", "", "", ""'
 typeoutFallback: ""
@@ -83,7 +83,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 # About Block
 aboutTitle: "About ICITL 2018"
-aboutConference: "ICITL 2018, the first Annual International Conference of Innovative Technologies and Learning, ICITL is opened to the public for organizing a workshop or track to achieve diversity of the symposium."
+aboutConference: "ICITL 2018, the International Conference of Innovative Technologies and Learning, ICITL is opened to the public for organizing a workshop or track to achieve diversity of the symposium."
 aboutaccepted: "All accepted papers presented at the conference will be published as a volume in Springer Lecture Notes in Computer Science (LNCS)."
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "" }
