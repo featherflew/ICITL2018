@@ -44,7 +44,7 @@ navigationLinks:
 #  - {permalink: "/blog/", text: "Blog"}
 
 # - {permalink: "/track/", text: "Call for track"}
- - {permalink: "/workshops/", text: "Workshops"}
+ - {permalink: "/speialtracks/", text: "Speial Tracks"}
  - {permalink: "/papers/", text: "Call for Papers"}
  - {permalink: "/keynote/", text: "Keynote"}
  - {permalink: "/organization/", text: "Organization"}
@@ -74,7 +74,7 @@ heroImage: "bg-main3.jpg"
 shorttitle: "ICITL 2018"
 #icwl: "in conjunction with ICWL 2016"
 heroTitle: "International Conference of Innovative Technologies and Learning<typeout> "
-eventDate: "Aug 27-29, 2018 , Piran Portorož, Slovenija"
+eventDate: "Aug 27-29, 2018 ,Hoteli Bernardin, Piran Portorož, Slovenija"
 #typeoutTextValues: '"SETE’16", "", "", "", ""'
 typeoutFallback: ""
 heroButtons:
