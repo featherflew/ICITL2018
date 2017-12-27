@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ICITL 2018"
 email: "icitl2018@gmail.com"
 description: "1st International Conference of Innovative Technologies and Learning"
-baseurl: ""
+baseurl: "/ICITL2018"
 url: "http://2018.icitl.org"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
